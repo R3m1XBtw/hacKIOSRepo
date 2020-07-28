@@ -1,7 +1,7 @@
 Package: com.macciti.lotus_1.0_iphoneos-arm
 Version: 1.0
 Section: Themes
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: Reposi3
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.macciti.lotus_1.0_iphoneos-arm.deb
@@ -9,7 +9,7 @@ Size: 6861500
 MD5sum: 446f37a1bc11e8293b5e85a2d574df7e
 Description: Theme For iOS 
 Name: Lotus
-Author: Reposi3 <reposithree@gmail.com>
+Author: Reposi3
 Depiction: https://r3m1xbtw.github.io/hacKIOSRepo/depictions/?p=com.macciti.lotus_1.0_iphoneos-arm
 
 
