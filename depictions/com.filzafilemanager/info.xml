@@ -1,5 +1,5 @@
 <package>
-	<id>com.filzafilemanager</id>
+	<id>com.filzafilemanager.deb</id>
 	<name>Filza File Manager</name>
 	<version>3.6.0-38</version>
 	<compatibility>
