@@ -39,3 +39,19 @@ Description: Make charging less boring with the Apple Pencil charging animation 
 Name: PencilChargingIndicator
 Author: Unknown
 Depiction: https://r3m1xbtw.github.io/hacKIOSRepo/depictions/com.shiftcmdk.pencilchargingindicator_1.2_b7_iphoneos-arm
+
+
+
+Package: com.filza
+Version: 3.6.0-38
+Section: Utilities
+Maintainer: Reposi3
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.filza.deb
+Size: 9278358
+MD5sum: d6d57d5bafc44e5bb86883c4640b330d
+Description: Filza File Manager
+Name: Filza File Manager
+Author: Reposi3
+Depiction: https://r3m1xbtw.github.io/hacKIOSRepo/depictions/?p=com.filza

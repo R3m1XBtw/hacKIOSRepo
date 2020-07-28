@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+		<version>1.0.0-2</version>
+		<change>Initial Relase</change>
+		<change>Some Bug Fixed</change>
+		<change></change>
+	</changes>
+	<changes>
+		<version>3.6.0-38</version>
+		<change>iOS 13.5 supported</change>
+	</changes>
+</changelog>
