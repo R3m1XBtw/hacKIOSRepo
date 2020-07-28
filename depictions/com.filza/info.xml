@@ -12,4 +12,23 @@
 	</dependencies>
 	<shortDescription>Filza File Manager</shortDescription>
 	<descriptionlist>
-		
+			</dependencies>
+	<shortDescription>Filza</shortDescription>
+	<descriptionlist>
+		<description></description>
+		<description></description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
